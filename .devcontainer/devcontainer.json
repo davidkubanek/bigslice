@@ -1,0 +1,4 @@
+{
+  "name": "BiG-SLICE from Dockerfile",
+  "build": { "dockerfile": "Dockerfile" },
+}
